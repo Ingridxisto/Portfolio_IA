@@ -1,0 +1,14 @@
+# React
+node_modules/
+dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment
+.env
