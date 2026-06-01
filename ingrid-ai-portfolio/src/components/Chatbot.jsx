@@ -77,8 +77,10 @@ function Chatbot() {
 
     try {
 
+      const API_URL = "https://portfolio-ia-ydrf.onrender.com"
+
       const res = await axios.get(
-        `http://127.0.0.1:8000/chat?message=${message}`
+        `${API_URL}/chat?message=${encodeURIComponent(message)}`
       )
 
       const botMessage = {
