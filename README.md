@@ -1,39 +1,44 @@
 # 🌅 Saebyeok AI Portfolio
 
-Portfólio profissional desenvolvido com React e FastAPI para apresentar projetos, habilidades e experiências nas áreas de Desenvolvimento Back-end, Inteligência Artificial e Automação.
+🌐 Acesse o projeto:  
+https://portfolio-ia-ingrid.vercel.app/
+
+Portfólio profissional desenvolvido com React e FastAPI, integrando uma interface moderna com chatbot inteligente e APIs REST para apresentação de projetos, habilidades e experiências em Desenvolvimento Back-end, Automação e Inteligência Artificial.
+
+---
 
 ## 🚀 Funcionalidades
 
-* Apresentação profissional
-* Exibição de projetos em destaque
-* Download de currículo
-* Integração com GitHub
-* Chatbot com Inteligência Artificial
-* Interface responsiva
-* Animações modernas e experiência interativa
+- Apresentação profissional
+- Exibição de projetos em destaque
+- Download de currículo
+- Integração com GitHub
+- Chatbot interativo
+- Interface responsiva
+- Animações modernas com UX aprimorada
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
-
-* React
-* Vite
-* JavaScript
-* TailwindCSS
-* Framer Motion
+- React
+- Vite
+- JavaScript
+- TailwindCSS
+- Framer Motion
 
 ### Backend
+- Python
+- FastAPI
+- REST API
 
-* Python
-* FastAPI
-* REST API
+### Inteligência e Automação
+- Chatbot baseado em lógica condicional
+- Integração de APIs
+- Automação de respostas
 
-### Inteligência Artificial
-
-* OpenAI API
-* LLMs
-* Prompt Engineering
-* IA Generativa
+---
 
 ## 📂 Estrutura do Projeto
 
