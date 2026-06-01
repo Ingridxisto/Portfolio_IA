@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #050816;
+  color: white;
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+
+/* Glow Effects */
+
+.glow {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background: rgba(0, 216, 255, 0.15);
+  filter: blur(120px);
+  border-radius: 9999px;
+  z-index: -1;
+}
+
+.glow-purple {
+  background: rgba(123, 97, 255, 0.15);
+}
+
+/* Tech Grid */
+
+body::before {
+
+  content: "";
+
+  position: fixed;
+
+  inset: 0;
+
+  background-image:
+    linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+
+  background-size: 40px 40px;
+
+  z-index: -2;
+}
