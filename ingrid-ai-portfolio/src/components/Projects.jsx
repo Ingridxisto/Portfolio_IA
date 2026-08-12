@@ -45,12 +45,12 @@ function Projects() {
     // 3 ESTOQUE
 
     {
-      title: "Smart Stock System",
+      title: "Controle de Estoque",
 
       description:
-        "Sistema de gerenciamento de estoque com autenticação, controle de produtos e automação operacional.",
+        "Sistema web completo para gerenciamento de estoque, com autenticação de usuários, controle de permissões, cadastro de produtos, movimentações de estoque e API REST protegida por JWT.",
 
-      tech: ["Python", "MySQL", "Tkinter"],
+      tech: ["Python", "Flask", "MySQL", "SQLAlchemy", "JWT", "REST API"],
 
       github: "https://github.com/Ingridxisto/Controle-de-Estoque",
 
