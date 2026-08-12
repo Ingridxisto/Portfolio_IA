@@ -12,7 +12,8 @@ function Skills() {
         "Flask",
         "Django",
         "Spring Boot",
-        "REST APIs"
+        "REST APIs",
+        "SQLAlchemy"
       ]
     },
 
@@ -36,7 +37,8 @@ function Skills() {
         "ETL",
         "Python Automation",
         "APIs",
-        "Integração de Sistemas"
+        "Integração de Sistemas",
+        "OpenPyXL"
       ]
     },
 
@@ -44,11 +46,14 @@ function Skills() {
       title: "APIs & Arquitetura",
       skills: [
         "FastAPI",
+        "Flask",
         "CRUD",
-        "JWT Auth",
+        "JWT",
         "Postman",
         "Arquitetura em Camadas",
-        "POO"
+        "POO",
+        "JSON",
+        "HTTP"
       ]
     },
 
@@ -57,9 +62,11 @@ function Skills() {
       skills: [
         "React",
         "JavaScript",
+        "TypeScript",
         "TailwindCSS",
         "HTML",
-        "CSS"
+        "CSS",
+        "React Native"
       ]
     },
 
@@ -68,7 +75,9 @@ function Skills() {
       skills: [
         "MySQL",
         "PostgreSQL",
-        "SQLite"
+        "SQLite",
+        "SQL",
+        "SQLAlchemy"
       ]
     },
 
@@ -78,7 +87,10 @@ function Skills() {
         "Git",
         "GitHub",
         "Docker",
-        "VS Code"
+        "VS Code",
+        "Postman",
+        "DBeaver",
+        "Jupyter Notebook"
       ]
     }
 

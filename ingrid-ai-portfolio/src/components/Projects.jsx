@@ -45,7 +45,7 @@ function Projects() {
     // 3 ESTOQUE
 
     {
-      title: "Controle de Estoque",
+      title: "Inventory Management System",
 
       description:
         "Sistema web completo para gerenciamento de estoque, com autenticação de usuários, controle de permissões, cadastro de produtos, movimentações de estoque e API REST protegida por JWT.",
