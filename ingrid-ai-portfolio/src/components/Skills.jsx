@@ -96,7 +96,7 @@ function Skills() {
 
   ]
 
-  return (
+  return ( 
 
     <section 
         id="skills"

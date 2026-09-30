@@ -7,6 +7,7 @@ import estoqueImg from "../assets/projects/controle-estoque.png"
 import iotImg from "../assets/projects/DashboardIoT.jpg"
 import painelImg from "../assets/projects/painel-monitoramento-tempo.png"
 import chatbotImg from "../assets/projects/chatbot.png"
+import blogImg from "../assets/projects/blog-django.png"
 
 function Projects() {
 
@@ -100,6 +101,21 @@ function Projects() {
       github: "https://github.com/Ingridxisto/chatbot-atendimento-automatico",
 
       image: chatbotImg
+    },
+
+    // 7 BLOG DJANGO
+
+    {
+      title: "Ingrid Dev — Blog em Django",
+
+      description:
+        "Blog pessoal desenvolvido com Python e Django para compartilhar estudos, projetos e aprendizados em tecnologia.",
+
+      tech: ["Python", "Django", "MySQL", "Docker"],
+
+      github: "https://github.com/Ingridxisto/projeto-blog-django",
+
+      image: blogImg
     }
 
   ]
