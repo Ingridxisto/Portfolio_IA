@@ -28,19 +28,19 @@ function Projects() {
       image: portfolioImg
     },
 
-    // 2 API FASTAPI
+    // 2 BLOG DJANGO
 
     {
-      title: "Health Risk API",
+      title: "Ingrid Dev — Blog em Django",
 
       description:
-        "API REST desenvolvida com FastAPI para gerenciamento de clientes e cálculo inteligente de risco de saúde.",
+        "Blog pessoal desenvolvido com Python e Django para compartilhar estudos, projetos e aprendizados em tecnologia.",
 
-      tech: ["Python", "FastAPI", "API REST"],
+      tech: ["Python", "Django", "MySQL", "Docker"],
 
-      github: "https://github.com/Ingridxisto/API-de-Gerenciamento-de-Clientes",
+      github: "https://github.com/Ingridxisto/projeto-blog-django",
 
-      image: apiClientesImg
+      image: blogImg
     },
 
     // 3 ESTOQUE
@@ -103,19 +103,19 @@ function Projects() {
       image: chatbotImg
     },
 
-    // 7 BLOG DJANGO
+    // 7 API FASTAPI
 
     {
-      title: "Ingrid Dev — Blog em Django",
+      title: "Health Risk API",
 
       description:
-        "Blog pessoal desenvolvido com Python e Django para compartilhar estudos, projetos e aprendizados em tecnologia.",
+        "API REST desenvolvida com FastAPI para gerenciamento de clientes e cálculo inteligente de risco de saúde.",
 
-      tech: ["Python", "Django", "MySQL", "Docker"],
+      tech: ["Python", "FastAPI", "API REST"],
 
-      github: "https://github.com/Ingridxisto/projeto-blog-django",
+      github: "https://github.com/Ingridxisto/API-de-Gerenciamento-de-Clientes",
 
-      image: blogImg
+      image: apiClientesImg
     }
 
   ]
