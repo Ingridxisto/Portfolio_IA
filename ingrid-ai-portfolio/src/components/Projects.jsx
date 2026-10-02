@@ -8,7 +8,7 @@ import iotImg from "../assets/projects/DashboardIoT.jpg"
 import painelImg from "../assets/projects/painel-monitoramento-tempo.png"
 import chatbotImg from "../assets/projects/chatbot.png"
 import blogImg from "../assets/projects/blog-django.png"
-import agendaImg from "../assets/projects/agenda-contatos.png"
+import agendaImg from "../assets/projects/agenda-django.png"
 
 
 function Projects() {
@@ -100,7 +100,7 @@ function Projects() {
 
       tech: ["Python", "Django", "SQLite", "HTML", "CSS"],
 
-      github: "https://github.com/Ingridxisto/SEU-REPOSITORIO",
+      github: "https://github.com/Ingridxisto/Projeto-Agenda-Django",
 
       image: agendaImg
     },
