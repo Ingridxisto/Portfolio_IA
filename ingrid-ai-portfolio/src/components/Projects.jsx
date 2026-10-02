@@ -8,6 +8,8 @@ import iotImg from "../assets/projects/DashboardIoT.jpg"
 import painelImg from "../assets/projects/painel-monitoramento-tempo.png"
 import chatbotImg from "../assets/projects/chatbot.png"
 import blogImg from "../assets/projects/blog-django.png"
+import agendaImg from "../assets/projects/agenda-contatos.png"
+
 
 function Projects() {
 
@@ -86,6 +88,21 @@ function Projects() {
       github: "https://github.com/Ingridxisto/painel-monitoramento-tempo",
 
       image: painelImg
+    },
+
+    // 6 AGENDA
+
+    {
+      title: "Agenda de Contatos",
+
+      description:
+        "Sistema de agenda desenvolvido com Django para gerenciamento e busca de contatos.",
+
+      tech: ["Python", "Django", "SQLite", "HTML", "CSS"],
+
+      github: "https://github.com/Ingridxisto/SEU-REPOSITORIO",
+
+      image: agendaImg
     },
 
     // 6 CHATBOT
